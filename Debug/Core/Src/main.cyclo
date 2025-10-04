@@ -1,0 +1,15 @@
+../Core/Src/main.c:103:6:myPrintf	3
+../Core/Src/main.c:144:6:wizchipSelect	1
+../Core/Src/main.c:149:6:wizchipUnselect	1
+../Core/Src/main.c:154:6:wizchipReadBurst	1
+../Core/Src/main.c:159:6:wizchipWriteBurst	1
+../Core/Src/main.c:164:9:wizchipReadByte	1
+../Core/Src/main.c:171:6:wizchipWriteByte	1
+../Core/Src/main.c:176:6:wizChipInit	1
+../Core/Src/main.c:193:9:checkLinkStatus	2
+../Core/Src/main.c:211:5:main	22
+../Core/Src/main.c:408:6:SystemClock_Config	3
+../Core/Src/main.c:445:13:MX_SPI1_Init	2
+../Core/Src/main.c:485:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:520:13:MX_GPIO_Init	1
+../Core/Src/main.c:565:6:Error_Handler	1

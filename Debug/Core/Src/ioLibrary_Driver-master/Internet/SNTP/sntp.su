@@ -1,0 +1,5 @@
+../Core/Src/ioLibrary_Driver-master/Internet/SNTP/sntp.c:74:6:get_seconds_from_ntp_server	352	static
+../Core/Src/ioLibrary_Driver-master/Internet/SNTP/sntp.c:218:6:SNTP_init	32	static
+../Core/Src/ioLibrary_Driver-master/Internet/SNTP/sntp.c:250:8:SNTP_run	48	static
+../Core/Src/ioLibrary_Driver-master/Internet/SNTP/sntp.c:347:6:calcdatetime	224	static
+../Core/Src/ioLibrary_Driver-master/Internet/SNTP/sntp.c:448:8:changedatetime_to_seconds	88	static
